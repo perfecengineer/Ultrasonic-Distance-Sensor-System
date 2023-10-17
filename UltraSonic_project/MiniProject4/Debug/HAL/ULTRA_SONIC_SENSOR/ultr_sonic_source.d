@@ -1,0 +1,24 @@
+HAL/ULTRA_SONIC_SENSOR/ultr_sonic_source.o \
+  HAL/ULTRA_SONIC_SENSOR/ultr_sonic_source.o:  \
+ ../HAL/ULTRA_SONIC_SENSOR/ultr_sonic_source.c \
+  ../HAL/ULTRA_SONIC_SENSOR/../../MCAL/GPIO/gpio.h \
+  ../HAL/ULTRA_SONIC_SENSOR/../../MCAL/GPIO/../../UTILS/STD_TYPES.h \
+  ../HAL/ULTRA_SONIC_SENSOR/../../MCAL/GPIO/gpio_configuration.h \
+  ../HAL/ULTRA_SONIC_SENSOR/../../MCAL/ICU/icu.h \
+  ../HAL/ULTRA_SONIC_SENSOR/../../MCAL/ICU/../../UTILS/STD_TYPES.h \
+  ../HAL/ULTRA_SONIC_SENSOR/../ULTRA_SONIC_SENSOR/ultra_sonic_interface.h \
+  ../HAL/ULTRA_SONIC_SENSOR/../ULTRA_SONIC_SENSOR/../../UTILS/STD_TYPES.h
+
+../HAL/ULTRA_SONIC_SENSOR/../../MCAL/GPIO/gpio.h:
+
+../HAL/ULTRA_SONIC_SENSOR/../../MCAL/GPIO/../../UTILS/STD_TYPES.h:
+
+../HAL/ULTRA_SONIC_SENSOR/../../MCAL/GPIO/gpio_configuration.h:
+
+../HAL/ULTRA_SONIC_SENSOR/../../MCAL/ICU/icu.h:
+
+../HAL/ULTRA_SONIC_SENSOR/../../MCAL/ICU/../../UTILS/STD_TYPES.h:
+
+../HAL/ULTRA_SONIC_SENSOR/../ULTRA_SONIC_SENSOR/ultra_sonic_interface.h:
+
+../HAL/ULTRA_SONIC_SENSOR/../ULTRA_SONIC_SENSOR/../../UTILS/STD_TYPES.h:
